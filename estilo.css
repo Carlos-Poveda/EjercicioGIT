@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+p {
+    color:greenyellow;
+}
+div {
+    background-color: darkblue;
+}
